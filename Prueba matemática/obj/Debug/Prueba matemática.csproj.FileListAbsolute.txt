@@ -1,0 +1,11 @@
+C:\Users\Matias Canziani\Desktop\Prueba matemática\Prueba matemática\Prueba matemática\bin\Debug\Prueba matemática.exe.config
+C:\Users\Matias Canziani\Desktop\Prueba matemática\Prueba matemática\Prueba matemática\bin\Debug\Prueba matemática.exe
+C:\Users\Matias Canziani\Desktop\Prueba matemática\Prueba matemática\Prueba matemática\bin\Debug\Prueba matemática.pdb
+C:\Users\Matias Canziani\Desktop\Prueba matemática\Prueba matemática\Prueba matemática\obj\Debug\Prueba matemática.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\Prueba matemática\Prueba matemática\Prueba matemática\obj\Debug\Prueba matemática.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias Canziani\Desktop\Prueba matemática\Prueba matemática\Prueba matemática\obj\Debug\Prueba_matemática.Form1.resources
+C:\Users\Matias Canziani\Desktop\Prueba matemática\Prueba matemática\Prueba matemática\obj\Debug\Prueba_matemática.Properties.Resources.resources
+C:\Users\Matias Canziani\Desktop\Prueba matemática\Prueba matemática\Prueba matemática\obj\Debug\Prueba matemática.csproj.GenerateResource.cache
+C:\Users\Matias Canziani\Desktop\Prueba matemática\Prueba matemática\Prueba matemática\obj\Debug\Prueba matemática.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\Prueba matemática\Prueba matemática\Prueba matemática\obj\Debug\Prueba matemática.exe
+C:\Users\Matias Canziani\Desktop\Prueba matemática\Prueba matemática\Prueba matemática\obj\Debug\Prueba matemática.pdb
